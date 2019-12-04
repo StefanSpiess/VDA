@@ -1,0 +1,11 @@
+{
+    "name": "ventum-consulting/v-d-a",
+    "description": "Description of project VDA.",
+    "authors": [
+        {
+            "name": "sspiess",
+            "email": "stefan.spiess@ventum.de"
+        }
+    ],
+    "require": {}
+}
